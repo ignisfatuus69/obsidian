@@ -11,3 +11,5 @@
 
 [[Model Validation]]
 ***Putting a score on the model** on how accurate its predictions are after it has predicted the values. This is done by **regression or classification**.
+
+### Machine Learning Model Process

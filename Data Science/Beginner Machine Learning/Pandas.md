@@ -67,5 +67,20 @@
 
 ![[Pasted image 20231007083817.png]]
 * isnull / isnotnull, very useful for Data Cleaning #datacleaning
-
 ![[Pasted image 20231007084000.png]]
+##### Summary Functions and Maps
+*Sometimes we have to do extra work to reformat data to just what we need*
+
+*describe* #pandasdescribe
+![[Pasted image 20231009132623.png]]
+
+mean #pandasmean
+![[Pasted image 20231009132707.png]]
+
+unique #pandasunique
+* unique list of values
+![[Pasted image 20231009132735.png]]
+
+*value_counts*
+* the count of how often a value appears in the data set
+![[Pasted image 20231009132842.png]]
