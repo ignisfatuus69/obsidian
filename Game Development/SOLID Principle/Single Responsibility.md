@@ -1,0 +1,54 @@
+* Keep components scripts only  responsibility for one thing
+* Keeps scripts/components small and simple
+* Makes your components flexible/customizable
+
+## Examples
+
+### Ship Example (Jason Weimann)
+*Link: [SOLID Unity3D - Single Responsibility Principle - YouTube](https://www.youtube.com/watch?v=Eyr7_l5NMds&list=PLB5_EOMkLx_WjcjrsGUXq9wpTib3NCuqg&index=2)
+#### Wrong Practice:
+* Having a big ship class that **handles multiple functionalities/responsibilities** (movement, health ,firing projectiles ,particles)
+* Code lines reach 100+
+
+***ONE BIG SHIP CLASS** which contains **multiple functionalities** 
+![[Pasted image 20231009101121.png]]
+
+#### Correct Practice 
+* **BREAKING DOWN** the one big ship classes into multiple components/scripts that only does **one function/responsibility**
+* Number of code lines do not reach 100+
+
+*Components of ship class broken down into single and smaller scripts
+
+![[Pasted image 20231009101830.png]]
+
+*An example of Ship Particles ( which is a component of a Ship), only handling the particles functionality of the ship
+* Ship Particles can still rely on the other ship component classes to handle some of its functionalities **through connections of events** only
+* On this example it connects with the classes of **ShipEngine** and **ShipHealth** so it can **disperse particles whenever the ship generates particles when it dies or when it changes direction**
+
+![[Pasted image 20231009104417.png]]
+
+
+
+### Bomb Example (Dapper Dino)
+*Link: [(7) S.O.L.I.D Design Patterns - Unity - Single Responsibility Principle - YouTube](https://www.youtube.com/watch?v=f5zJ4D2E0dI&t=2s)
+#### Wrong Practice:
+* Having a bomb class that **handles multiple functionalities/responsibilities** (timed event, detonation(area effect) ,event on collide)
+* functionalities are not reusable and extensible
+
+***ONE BOMB CLASS** which contains **multiple functionalities** 
+![[Pasted image 20231009110225.png]]
+
+#### Correct Practice 
+* **BREAKING DOWN** the one bomb classes into multiple components/scripts that only does **one function/responsibility**
+* Number of code lines do not reach 100+
+* Every functionality can be reused and connect to each other instead of relying onto one another
+
+*Components of bomb class broken down into single and smaller scripts and connected through events
+
+![[Pasted image 20231009110419.png]]
+
+*An example of Timer ( which is a component of a Bomb), only handling the particles functionality of the timer functionality
+* Timer is a stand alone class which the other components can connect themselves by using the events of the timer ( as seen on the picture above)
+* On this example it connects with the classes of **Area Damage** and **Destruction Action** so it can explode and do area damage and destroy objects once the timer is up (**OnTimerEnd**). The class **Trigger Overlap** is also connected to the **DetonateEarly** event so that it can fire up event **OnCollisionOverlap** whenever the bomb **detonates**.
+
+ ![[Pasted image 20231009110759.png]]
