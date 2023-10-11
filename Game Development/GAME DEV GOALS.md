@@ -1,4 +1,4 @@
-*My main goal is to equip myself with enough knowledge and skills in order to make fun and complex projects and have a better portfolio. This will be the last stretch that I need to have the confidence of being a "good" game programmer*
+*My main goal is to equip myself with **enough knowledge and skills** in order to **make fun and complex projects** and have a **better portfolio**. This will be the last stretch that I need to **have the confidence** of being a "good" game programmer*
 
 ## STUDY
 #### S.O.L.I.D PRINCIPLES
