@@ -2,6 +2,8 @@
 * What is the business problem?
 * Why is it important?
 
+#### Why is it important to ask good questions?
+* We need to make the big question answerable through little questions in order to make data driven decisions
 #### Formulating Questions
 ###### Descriptive
 * What happened?
@@ -15,13 +17,22 @@
 * Testing answers to the problems
 * Hypothesizing
 
+![[Pasted image 20231011182632.png]]
 **Data Analytics Pipepline**
 - Asking question
 - Analyzing the data
 - Communicate 
 
-Hypothesis Driven Approach
+![[Pasted image 20231011182719.png]]
 
+![[Pasted image 20231011191158.png]]
+
+**Hypothesis Driven Approach**
+* Question
+* Hypothesis
+* Research
+
+![[Pasted image 20231011182701.png]]
 **SMART QUESTIONS**
 Specific
 Measurable
@@ -29,16 +40,10 @@ Attainable
 Relevant
 Timebound
 
-Exploratory Data Analysis
+*Types of charts*
+![[Pasted image 20231011182755.png]]
+#### **Exploratory Data Analysis**
 * see the data that we currently have
 * What errors
 * what anomalies/outliers
 * what we need to clean
-
-**Making Visuals with PowerBI** : 
-[Setting-up PowerBI - Google Docs](https://docs.google.com/document/d/1buH66XYnHp42_8NDKD_TIbBp6gSPkb4L0XDhJNhp984/edit)
-* Learn to speak with numbers
-* Have a quantifiable question with quantifiable numbers
-1.) load data
-2.) choose data
-3.) create graph
