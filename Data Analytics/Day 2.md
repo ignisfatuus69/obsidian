@@ -36,10 +36,12 @@
 
 *Questions to choose metric*
 * Does it tell the story that you want to tell?
+* Example : population : in terms of relativity: we choose percentage over absolute
 * Adjust until the delivery is satisfactory
 ![[Pasted image 20231011190958.png]]
 #### Data Cleaning
 * No dataset is the same
+* Aggregating data will be prone to errors
 * Cleaning will always be different
 ![[Pasted image 20231011191609.png]]
 *Example of data cleaning*

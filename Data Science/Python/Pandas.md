@@ -15,11 +15,11 @@
 ##### Creating,Reading and Writing Data
 [Exercise: Creating, Reading and Writing | Kaggle](https://www.kaggle.com/code/cliffycodes/exercise-creating-reading-and-writing/edit)*
 
-*DataFrame Creation*
+***DataFrame Creation***
 
 ![[Pasted image 20231004095123.png]]
 
-*Series Creation* #series 
+***Series Creation*** #series 
 * Series contains a single list with an index, Dataframes are a list of series
 
 ![[Pasted image 20231004095442.png]]
@@ -27,13 +27,13 @@
 ##### Indexing, Selecting & Assigning
 
 
-*Native Accessors*
+***Native Accessors***
 
 ![[Pasted image 20231004155450.png]]
 
 *Pandas Indexing* #series 
 
-*Iloc
+***Iloc**
 * selecting the first row
 
 ![[Pasted image 20231005223921.png]]

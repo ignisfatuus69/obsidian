@@ -14,3 +14,5 @@ Current bugs: di nawawala shield minsan
 feedback: have better feedback for new equation updating
 feedback : have better feedback for reset powerup updating number
 feedback: for coins, have sounds and effects
+
+![[Pasted image 20231013103340.png]]
