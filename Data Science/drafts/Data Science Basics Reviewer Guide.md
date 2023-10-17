@@ -42,6 +42,9 @@ BASIC Topics to keep reviewing/mastering FOR NOW:
 	- using loc, access all the SEA countries with isin function
 
 ### [Numpy]
-* look at aral aral modules first
-* look at kaggle module basics
-* 
+* Creating arrays
+* Numpy arrange
+* Getting info about arrays
+* Performing math in mupy
+* Slicing and shaping (probably the most important topic)
+* Iterating over multidimensional arrays
