@@ -17,8 +17,8 @@
 *Branching*
 ![[Pasted image 20231017215841.png]]
 
-Steps
+**Steps**
 1.) Look at the guideline
 2.) Align/label our questions for the guideline
 3.) Choose an approach on how we'll present our story
-4.)
+4.) Divide the work to fill up the slides and present 
