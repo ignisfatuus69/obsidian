@@ -48,7 +48,7 @@ Statistics
 * useful in dividing into quartiles
 ### IQR
 * 75th percentile - 25th percentile
-* * useful in dividing into quartiles
+* useful in dividing into quartiles
 * Use when you have extreme outliers
 
 ### SD and Variance
