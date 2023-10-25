@@ -1,6 +1,6 @@
 
 ## GOAL
-*To  be equipped with adequate foundational knowledge and skills before deep diving into machine learning concepts and advanced statistic methods
+***To be equipped with adequate foundational knowledge and skills before deep diving into machine learning concepts and advanced statistic methods**
 ## TOPICS
 ### Python
 * learn more shit, complete list from Kaggle
@@ -30,6 +30,6 @@
 * Write down topics here later 
 * Follow the 1st course curriculum and add content to jupyter notebook
 
-### Basically Follow Course 1 until Module 15 and continue again later
+### Basically Follow Course 1 until Module 15 and rewatch last part later
 
 
