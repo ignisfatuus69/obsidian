@@ -16,8 +16,18 @@
 * Skim through pandas from 1st course ( the bends ) , add exercise to jupyter notebook
 
 ### Numpy
-* Write down topics here later 
-* Follow the 1st course curriculum and add content to jupyter notebook
+* Datatypes and Attributes
+* Random seed
+* Viewing arrays and matrices
+* Manipulating arrays
+* Standard deviation and variance
+* Reshape and Transpose
+* Dot Product vs Element Wise
+* [Exercise] Nut Butter Store Sales
+* Comparison Operators
+* Sorting Arrays
+* Turning Images into NumPy Arrays
+* [Exercise] Imposter Syndrome
 
 ### Matplotlib
 * Write down topics here later 
