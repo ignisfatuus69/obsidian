@@ -4,16 +4,13 @@
 ## TOPICS
 ### Python
 * learn more shit, complete list from Kaggle
-* ~~Write notes from the new topics: Strings and Dictionaries
 * Write notes from the new topics: OOP
 * Do building algorithms task from aral-aral
 * Check out modules and packages part from 1st course
 
 ### Pandas
 * learn more shit, complete list from Kaggle
-* Write notes from the new topics: Summary Functions and Maps
 * Write notes from the new topics: Grouping and Sorting
-* ~~Write notes from the new topics: Data Types~~ and Missing Values
 * Write notes from the new topics: Renaming and Combining
 * Do building algorithms task from aral-aral
 * Skim through pandas from 1st course ( the bends ) , add exercise to jupyter notebook
