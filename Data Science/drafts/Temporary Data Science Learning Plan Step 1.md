@@ -3,9 +3,9 @@
 ***To be equipped with adequate foundational knowledge and skills before deep diving into machine learning concepts and advanced statistic methods**
 ## TOPICS
 ### Python
-* learn more shit, complete list from Kaggle
-* Write notes from the new topics: OOP
-* Do building algorithms task from aral-aral
+* ~~learn more shit, complete list from Kaggle
+* ~~Write notes from the new topics: OOP
+* ~~Do building algorithms task from aral-aral
 * Check out modules and packages part from 1st course
 
 ### Pandas
