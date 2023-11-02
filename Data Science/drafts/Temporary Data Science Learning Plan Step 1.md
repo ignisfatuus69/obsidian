@@ -16,8 +16,8 @@
 * Skim through pandas from 1st course ( the bends ) , add exercise to jupyter notebook
 
 ### Numpy
-* Datatypes and Attributes
-* Random seed
+* ~~Datatypes and Attributes
+* ~~Random seed
 * Viewing arrays and matrices
 * Manipulating arrays
 * Standard deviation and variance
@@ -30,8 +30,14 @@
 * [Exercise] Imposter Syndrome
 
 ### Matplotlib
-* Write down topics here later 
-* Follow the 1st course curriculum and add content to jupyter notebook
+* Anatomy of a motplotlib Figure
+* Scatter and Bar plot
+* Histograms and Subplots
+* Plotting from Pandas Dataframes 
+* Plotting from Pandas Dataframes 2
+* Plotting from Pandas Dataframes 3
+* Customizing plots
+* Saving and sharing plots
 
 ### Scikitlearn
 * Write down topics here later 
