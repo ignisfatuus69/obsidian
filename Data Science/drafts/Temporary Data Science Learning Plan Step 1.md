@@ -18,8 +18,8 @@
 ### Numpy
 * ~~Datatypes and Attributes
 * ~~Random seed
-* Viewing arrays and matrices
-* Manipulating arrays
+* ~~Viewing arrays and matrices
+* ~~Manipulating arrays
 * Standard deviation and variance
 * Reshape and Transpose
 * Dot Product vs Element Wise
