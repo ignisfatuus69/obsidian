@@ -2,22 +2,23 @@
 **Calf Press x 3**:10-12,6-10 
 **ATG Squats x 3**: 1 topset x 5, 2 backoffs: 8-12,6-8 **(RAISABLE TO 4 SETS)**
 **Neutral Pull Ups x 3**: 1 topset x 5, 10-12,8-10,6-8 **(RAISABLE TO 4 SETS)**
-**Seated OHP x 2**: 8-12,6-8
+**Weighted Decline Push Ups(Reverse Grip) x 2**: 8-12,6-8
 **Long Head Triceps x 2** : 12-15, 8-12 **(**RAISABLE TO 3 SETS**)**
-**Side Raises x 2**: 12-15,8-12 **(RAISABLE TO 3 SETS)**
-**Leg raise x 1**: AMRAP
-**Knee Raise x 2**: AMRAP
-**Farmers Walk x 1**:  AMRAP
+
+
 
 ### FB2A - RDLs & Reset Dips
 **RDLs x 2**: 1 topset x 5, 10-12, 8-10 
 **Reset Dips x 3**: 1 topset x 5, 2 backoffs: 6-8
-**Weighted Decline Push Ups(Reverse Grip) x 2**: 8-12,6-8
-**Machine Rows 1 x 2**: 8-12,6-8 **(RAISABLE TO 3 SETS)**
-**Cable Curls x 2**: 12-15, 8-12 **(**RAISABLE TO 3 SETS**)**
-**Face Pulls x 2**: 12-15,8-12 **(RAISABLE TO 3 SETS)**
+**Machine Rows 1 x 3**: 8-12,6-8 
+**Side Raises x 3**: 12-15,8-12 **(RAISABLE TO 3 SETS)**
+**Seated OHP x 2**: 8-12,6-8
+**Cable Curls x 3**: 12-15, 8-12 
+**Face Pulls x 3**: 12-15,8-12 
 **BSS x 2**:  12-15, 8-12
-**Farmers Walk x 1**:  AMRAP
+**Leg raise x 2**: AMRAP
+**Knee Raise x 2**: AMRAP
+**Farmers Walk x 2**:  AMRAP
 
 ### FB1B - ATG PAUSED SQUATS & RING PULL UPS
 **Calf Press x 3**:10-12,6-10 
