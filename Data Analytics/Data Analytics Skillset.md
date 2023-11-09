@@ -2,7 +2,7 @@
 * Power pivot and Dax Expressions
 * VBA and Report Automation
 
-### [[Power Bi]]
+### [[Power BI]]
 * ~~Basic data visualization
 * Data cleaning (more practice)
 * KPI Dashboards
