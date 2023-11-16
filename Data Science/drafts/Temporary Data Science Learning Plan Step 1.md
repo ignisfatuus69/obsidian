@@ -33,9 +33,8 @@
 * Anatomy of a motplotlib Figure
 * Scatter and Bar plot
 * Histograms and Subplots
+* Other kinds of plots
 * Plotting from Pandas Dataframes 
-* Plotting from Pandas Dataframes 2
-* Plotting from Pandas Dataframes 3
 * Customizing plots
 * Saving and sharing plots
 
