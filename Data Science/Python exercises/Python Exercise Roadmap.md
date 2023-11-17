@@ -1,0 +1,1 @@
+* Minimum of atleast 3 sections of each per day*
