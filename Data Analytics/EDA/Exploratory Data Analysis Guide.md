@@ -9,10 +9,13 @@
 	- cross reference w/ data dictionary
 3.) Filtering out columns
 	- set priorities and only get columns that we'll need
-4.) Check for null values![[Pasted image 20231120010600.png]]
+4.) Check for null values
+![[Pasted image 20231120010600.png]]
 ![[Pasted image 20231120010656.png]]
-5.)Numerical values check![[Pasted image 20231120010808.png]]
-6.) Outliers check![[Pasted image 20231120011012.png]]
+5.)Numerical values check
+![[Pasted image 20231120010808.png]]
+6.) Outliers check
+![[Pasted image 20231120011012.png]]
 ![[Pasted image 20231120011216.png]]![[Pasted image 20231120011423.png]]
 7.) Categorical values check
 ![[Pasted image 20231120011537.png]]8.) Binary columns check

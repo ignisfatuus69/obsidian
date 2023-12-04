@@ -3,14 +3,15 @@
 ### [PART 1]
 1.) Access to Data Dictionary [docs.google.com/spreadsheets/d/1xoB6vHKVtpx3hSQAtLTILn9Pq3KWe7jrAyk3Ah1Dktg/edit#gid=0](https://docs.google.com/spreadsheets/d/1xoB6vHKVtpx3hSQAtLTILn9Pq3KWe7jrAyk3Ah1Dktg/edit#gid=0)
 
-2.) Basic data information 
+2.) Data preparation and Basic data information 
 - use .info / .head / .describe 
 
 3.) Overview of numerical and categorical values
 * use .dtypes
 
 3.) Check for null values
-
+* use isna
+* use isna.sum*
 4.) Check for unique values
 
 5.) Group/Filter columns that we need for a specific question/goal
