@@ -9,7 +9,7 @@
 * Potato hash again + tacos!! ( 3 days )
 
 ### Finalized Workout Plan
-* have our finalized workout plan that has the most volume
+* ~~have our finalized workout plan that has the most volume
 
 ### Workout Clothes
 * buy more workout clothes (5 sandos,3 shorts and 2 metal/band shirts)

@@ -27,7 +27,7 @@
 
 [prep chicken,try to marinate]
 -0.7kg chicken thighs boneless, cut into bite size
--1 cup yogurt,1 tbsp garam masal,salt,smoked paprika, cayenne pepper, garlic (3 cloves),tbsp worth
+-1 cup yogurt,1 tbsp garam masal,salt,smoked paprika, cayenne pepper, garlic (3 cloves),ginger tbsp worth
 [heat chicken,vegetables]
 -2 tbsp vegetable oil, medium high heat
 -sear (2-2 mins), add color to chicken (brown)
