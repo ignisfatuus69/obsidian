@@ -47,3 +47,16 @@ w/ 1.5 cups milk & 1.5 cups pasta water
 -taste test if needs more salt
 
 [plate that bad boi] (5 plates)
+
+### [SHIT TO BUY]
+1 red pepper / 2
+1 large carrot / 2
+1lb cauliflower (450g) / 2
+
+1lb macaroni (450g) / 2
+
+2lb (908g) boneless skinless chicken thighs /2
+
+227g cheese /2
+
+1lb cottage cheese /2

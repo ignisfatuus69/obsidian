@@ -3,9 +3,15 @@
 fat free Greek yogurt 500g
 Season w/:
 siracha
-ketsup/buffalo
+ketchup/buffalo
 garlic powder
 paprika
-500g cheese (melt)
-Beans = 2.5 cups
-cilantro
+
+Cook Chicken
+
+Melt 500g cheese 
+Add beans (2.5 cups) to cheese
+
+Divide the shit into 5
+
+Store Chicken & cheese separately
