@@ -8,7 +8,7 @@
 * KPI Dashboards
 - DAX expressions
 
-### [[SQL]]
+### [[remote/Data Analytics/SQL]]
 * ~~Basic queries
 * Practice queries on MySQL
 
