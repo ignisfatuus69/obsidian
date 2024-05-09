@@ -10,7 +10,7 @@
 * Functions and modules
 * Array indexing
 
-### [[Numpy]]
+### [[remote/Data Science/Machine Learning/Beginner Machine Learning/Numpy]]
 ###### **Source**s
 * Documentation
 * ChatGPT

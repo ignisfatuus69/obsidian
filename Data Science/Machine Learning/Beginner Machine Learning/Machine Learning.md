@@ -12,7 +12,7 @@
 [[Model Validation]]
 ***Putting a score on the model** on how accurate its predictions are after it has predicted the values. This is done by **regression or classification**.
 
-[[Numpy]]
+[[remote/Data Science/Machine Learning/Beginner Machine Learning/Numpy]]
 *Library for manipulating data, used for numerical calculations efficiently
 ### Machine Learning Model Process
 ![[Pasted image 20231026234413.png]]
