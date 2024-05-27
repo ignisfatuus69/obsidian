@@ -20,7 +20,6 @@
 * Fix whitespaces by trimming
 * Fix inconsistent data based from value_counts
 
-
 4.) Checking numerical data:
 * Put all numeric data into a list then -> df.describe()
 * Check the distribution via histogram
@@ -43,3 +42,7 @@
 * Make predictive analysis/linear regression
 * Make bar charts / comparison
 
+Do EDA:
+[Statlog (German Credit Data) - UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
+
+[Clickstream Data for Online Shopping - UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/553/clickstream+data+for+online+shopping)
