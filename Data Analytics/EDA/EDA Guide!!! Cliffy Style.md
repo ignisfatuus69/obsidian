@@ -1,15 +1,19 @@
 
 0.) Load data via file or SQL
+* Remove duplicates right off the bat
 
 1.) Make data dictionary
+* only when needed
 
 2.) Show all columns (showing dtypes,# of rows) :
 *  df.info()
 * df.head()
-* df.isna().count()
+* df.describe()
+* df.isna().sum()
 
 2.5) Data Cleaning Step:
 * Fix the datatypes
+* Check how it's currently structured
 
 3.) Checking categorical  & date columns:
 * df["column"].value_counts()
