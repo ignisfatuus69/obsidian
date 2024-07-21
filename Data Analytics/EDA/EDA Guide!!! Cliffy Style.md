@@ -34,7 +34,7 @@
 * Fill in missing values 
 * Fixing outliers via lower & upper bound when needed
 
-4.) Relationship checking
+4.) Relationship plotting
 * Make a correlation matrix w/ heatmap
 * Scatter plot necessary relationship variables according to problem
 
